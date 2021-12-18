@@ -56,7 +56,7 @@
       <td rowspan="3">&nbsp;</td>
       <td rowspan="2" align="center" valign="top"><img src="week 5 tcom390/mv.jpg" width="300" height="300" alt=""/></td>
       <td height="221" align="center">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="300" height="300" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="250" height="250" alt=""/></td>
       <td colspan="3" rowspan="3">&nbsp;</td>
     </tr>
     <tr>
