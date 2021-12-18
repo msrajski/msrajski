@@ -54,7 +54,7 @@
     <tr>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/pull/2#issue-1083701620" width="300" height="300" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/pull/3/#issue-805751434" width="300" height="300" alt=""/></td>
       <td height="221" align="center">&nbsp;</td>
       <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="300" height="300" alt=""/></td>
       <td colspan="3" rowspan="3">&nbsp;</td>
