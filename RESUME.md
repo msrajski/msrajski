@@ -13,7 +13,7 @@
     </tr>
     <tr>
       <td colspan="2">&nbsp;</td>
-      <td width="312" rowspan="6" align="center"></td>
+      <td width="312" rowspan="6" align="center"><img src="MCKENZIE.jpg" width="250" height="344" alt=""></td>
       <td colspan="5">&nbsp;</td>
     </tr>
     <tr>
@@ -54,9 +54,9 @@
     <tr>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="week 5 tcom390/mv.jpg" width="300" height="300" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/pull/2#issue-1083701620" width="300" height="300" alt=""/></td>
       <td height="221" align="center">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="250" height="250" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="300" height="300" alt=""/></td>
       <td colspan="3" rowspan="3">&nbsp;</td>
     </tr>
     <tr>
