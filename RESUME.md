@@ -54,9 +54,9 @@
     <tr>
       <td rowspan="3">&nbsp;</td>
       <td rowspan="3">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/pull/4#issue-1083704347" width="300" height="300" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://user-images.githubusercontent.com/95388307/146624385-e1b8ca60-7a92-4803-b320-faf6ba87f078.gif" width="300" height="300" alt=""/></td>
       <td height="221" align="center">&nbsp;</td>
-      <td rowspan="2" align="center" valign="top"><img src="https://github.com/msrajski/msrajski/blob/main/ballstateuniversity.jpg" width="300" height="300" alt=""/></td>
+      <td rowspan="2" align="center" valign="top"><img src="https://user-images.githubusercontent.com/95388307/146624443-b1f9df0b-db9e-49c2-afb3-05e503219fd2.jpg" width="300" height="300" alt=""/></td>
       <td colspan="3" rowspan="3">&nbsp;</td>
     </tr>
     <tr>
